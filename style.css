@@ -1,0 +1,352 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.blackbox{
+  background-color: #2d2a32;
+  border-radius: 20px;
+}
+.logo, .options{
+  display: inline-block;
+  
+}
+.o{
+  
+}
+.o, .p, .m, .r{
+  display: inline;
+  text-decoration: none;
+  margin-left:60px;
+}
+.r{
+  background-color:darkblue;
+  border-radius: 10px;
+  height: 40px;
+  color:white;
+  
+}
+.options{
+  margin-left: 600px;
+  color: white;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+}
+.logo{
+  color: white;
+  margin-left:20px;
+}
+.enrol{
+  background-color: orange;
+  border-radius: 10px;
+  height:40px;
+  
+}
+.bottomhalf{
+  background:linear-gradient(#8989e6,#3737c3);
+height: 480px;
+
+}
+.learn, .text{
+color: white;
+}
+
+.Dev{
+  position:absolute;
+  top:200px;
+  left:70px;
+}
+
+.whitebox1{
+  background-color: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 90px;
+
+  position: absolute;
+  top: 200px;
+  left: 600px;
+}
+
+.st{
+ position: absolute; 
+  left: 40px;
+  bottom: 40px;
+  top: -3px;
+}
+.pa{
+  position: absolute;
+  top: 40px;
+  left: 20px;
+}
+
+.whitebox2{
+  background-color: white;
+  border-radius: 30px;
+  width: 150px;
+  height: 90px;
+
+  position: absolute;
+  top: 400px;
+  left: 600px;
+}
+
+.rate{
+ position: absolute; 
+  left: 40px;
+  bottom: 40px;
+  top: -3px;
+}
+.second{
+  position: absolute;
+  top: 40px;
+  left: 45px;
+}
+
+.image{
+  height: 400px;
+  position: absolute;
+  left: 900px;
+}
+
+.bluebox{
+  background-color:blue;
+  border-radius: 20px;
+ 
+ 
+}
+.whitebox3{
+  background-color: white;
+  border-radius: 30px;
+  position: absolute;
+  top: 600px;
+  border: 3px solid grey;
+}
+.bluebox, .whitebox3{
+  width: 300px;
+ 
+}
+
+.whitebox4{
+  background-color: white;
+  border-radius: 30px;
+  position: absolute;
+  top: 1000px;
+  border: 3px solid grey;
+  height: 200px;
+}
+
+.orangebox, .whitebox4{
+  width: 300px;
+  position: absolute;
+  bottom: 60px;
+  
+}
+
+.orangebox{
+  background-color: orange;
+  border-radius: 30px;
+  position: absolute;
+  bottom: 140px;
+  
+}
+
+.jacob, .face{
+  position: absolute;
+  top: 80px;
+}
+
+.rightside, .whitebox3, .whitebox4{
+  display: inline-block;
+}
+
+.btn2{
+  background-color: orange;
+  border-radius: 30px;
+}
+
+.rightside{
+  position: absolute;
+  top: 600px;
+  left: 700px;
+}
+
+.purplebox{
+  background:linear-gradient(#8989e6,#3737c3);
+  height: 400px;
+    position:absolute;
+    top:1250px;
+    left:10px;
+    width:1240px;
+    border-radius: 20px;
+    
+}
+.bigbox{
+  background-color: floralwhite;
+  width: 400px;
+  height: 200px;
+  border-radius: 30px;
+  margin-left: 30px;
+}
+
+.game, .hours{
+  display: inline;
+}
+.courses{
+  color: ghostwhite;
+}
+.game{
+  position: absolute;
+  bottom: 170px;
+  margin-left: 10px;
+}
+.hours{
+  position: absolute;
+  top: 100px;
+  left: 300px;
+}
+
+.bigbox1, .bigbox{
+  display: inline-block;
+}
+.bigbox1{
+  background-color: floralwhite;
+  width: 400px;
+  height: 200px;
+  border-radius: 30px;
+  position: absolute;
+  left: 700px;
+}
+
+.unity{
+  margin-left: 10px;
+}
+.cl{
+background-color: darkorange;
+  border-radius: 40px;
+  position: absolute;
+  left: 1000px;
+  height: 50px;
+  width: 100px;
+}
+
+.blacksmall2, .blacksmall3{
+  display: inline-block;
+  background-color: black;
+  width: 170px;
+  height: 70px;
+  position: absolute;
+  top: 1850px;
+  left: 800px;
+  border-radius: 20px;
+  
+  
+
+}
+.white1, .white2{
+  color: antiquewhite;
+}
+
+
+.blacksmall3{
+  position: absolute;
+  left: 650px;
+}
+.blacksmall{
+  position: absolute;
+top: 1700px;
+  left: 400px;
+  
+  
+}
+.blacksmall2{
+  position: absolute;
+  left: 400px;
+ 
+}
+
+ .blacksmall2, .blacksmall3{
+  position: absolute;
+  bottom: 300px;
+ }
+
+
+   .footer{
+     background-color: black;
+     height: 400px;
+     width: 1500px;
+     position: absolute;
+     top: 2000px;
+   }
+   .quick{
+     color: darkorange;
+     
+  
+   }
+
+   .i, .i1, .i2, .i3, .i4{
+     display: block;
+     color: white;
+   }
+
+.links{
+  position: absolute;
+  top: 50px;
+  
+}
+.cou{
+  color: darkorange;
+ 
+}
+
+.g, .g1, .g2{
+  display: block;
+  color: white;
+}
+
+.links, .quick, .contactus{
+  display: inline-block;
+}
+.courses{
+  position: absolute;
+left: 500px;
+  top:70px;
+}
+.cont{
+  color: white;
+}
+
+.head{
+  color: darkorange;
+}
+.contactus{
+  position: absolute;
+  left: 800px;
+  top: 70px;
+}
+
+.emailb{
+  color: #e5e0e0;
+  width: 300px;
+  height: 30px;
+}
+
+.subscribe{
+  background-color: darkblue;
+  color: white;
+  position: absolute;
+  right: 10px;
+  border-radius: 30px;
+  height: 40px;
+  
+}
+
+.courses, .contactus{
+  display: block;
+}
+
+
+
+
+
